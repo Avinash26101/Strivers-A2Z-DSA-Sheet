@@ -105,7 +105,7 @@ Inspired by the community of learners and problem-solvers on platforms like Leet
 ## 📬 Contact
 
 - **GitHub**: https://github.com/Avinash26101/
-- **LinkedIn**: [Ibrahim Bagwan](https://www.linkedin.com/in/Avinks)
+- **LinkedIn**: https://www.linkedin.com/in/Avinks
 
 ---
 
